@@ -1,3 +1,5 @@
+Note : The size of trained model in form of (.keras or .h5) file is ~90 MB which is more than the size of permissible file size on Github so trained_model.keras file could not be uploaded
+
 # Disease Detection in Plants Using Leaf Images 🌿🔍
 
 ![Project Banner](https://via.placeholder.com/800x300?text=Disease+Detection+in+Plants+Using+Leaf+Images)  
