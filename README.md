@@ -1,4 +1,4 @@
-Note : The size of trained model in form of (.keras or .h5) file is ~90 MB which is more than the size of permissible file size on Github so trained_model.keras file could not be uploaded
+Note : The size of trained model in form of (.keras or .h5) file is ~90 MB which is more than the permissible file size on Github so trained_model.keras file could not be uploaded on this platform , it can be found on [google drive](https://drive.google.com/drive/folders/1-23_a5ajQ7BmwtvDMAbw13_KQIeu8z3d) , also the size of dataset exceeds 2.5 GB as it contains 70000+ images so a compensating test folder is provided which contains some 33 test images
 
 # Disease Detection in Plants Using Leaf Images 🌿🔍
 
